@@ -1,0 +1,1 @@
+City(provinceId=12, cityName=CD, description=成都市)

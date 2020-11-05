@@ -1,0 +1,7 @@
+{
+  "timestamp": "2020-03-31T03:03:39.424+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "No message available",
+  "path": "/user/list"
+}

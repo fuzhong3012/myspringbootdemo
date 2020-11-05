@@ -1,0 +1,1 @@
+MiniAreaEntity{id=10, provinceCode=37, province=山东省, cityCode=09, city=泰安市, areaCode=02, area=泰山区, streetCode=001, street=岱庙街道办事处, committeeCode=37090200100800, committee=岱东街社区居委会, xiangCode=008, isCheck=1, createBy=null, createDate=null}

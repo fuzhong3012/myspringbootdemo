@@ -1,0 +1,7 @@
+{
+  "timestamp": "2020-04-09T09:27:06.308+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "exepct '[', but string, pos 41, json : \"[{\\\"age\\\":30,\\\"id\\\":1,\\\"name\\\":\\\"付忠\\\"}]\"",
+  "path": "/user/list"
+}

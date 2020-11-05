@@ -1,0 +1,7 @@
+{
+  "timestamp": "2020-04-13T08:13:41.109+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "nested exception is org.apache.ibatis.exceptions.TooManyResultsException: Expected one result (or null) to be returned by selectOne(), but found: 15",
+  "path": "/city/getOne"
+}
